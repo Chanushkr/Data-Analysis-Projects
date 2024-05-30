@@ -9,7 +9,7 @@ Welcome to my data analysis repository! Here, I showcase projects using Pandas, 
 - Description: Building a dashboard for agricultural data analysis, including crop yields, weather patterns, and market trends using Pandas, NumPy, and visualizations with Matplotlib and Seaborn.
 
 ### 2. Sales Analysis
-- Folder Name: `sales-analysis`
+- Folder Name: `2 - Used Cars Sales Dashboard`
 - Description: Analyzing sales data from CSV files using Pandas, performing EDA, and creating insightful visualizations with Matplotlib and Seaborn.
 
 ## About Me
