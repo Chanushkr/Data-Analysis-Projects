@@ -24,10 +24,15 @@ Data Wrangling with pandas: Efficiently concatenated and merged datasets.
 Data Visualization with matplotlib and seaborn: Created various plots to uncover insights.
 Technologies Used
 
-Python
-pandas
-matplotlib
-seaborn
+
+- Python
+
+- pandas
+
+- matplotlib
+
+- seaborn
+
 How to Use
 
 Clone the repository to your local machine.
