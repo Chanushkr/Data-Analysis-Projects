@@ -22,7 +22,9 @@ Key Techniques Used
 
 Data Wrangling with pandas: Efficiently concatenated and merged datasets.
 Data Visualization with matplotlib and seaborn: Created various plots to uncover insights.
+
 Technologies Used
+
 
 
 - Python
