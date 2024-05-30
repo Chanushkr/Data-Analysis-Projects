@@ -1,10 +1,10 @@
-Sales Data Analysis Project 🚀📊
+# Sales Data Analysis Project 🚀📊
 
-Overview
+## Overview
 
 Welcome to my Sales Data Analysis project! In this project, I consolidated 3 years of sales data from 36 CSV files into a comprehensive sales fact table, along with 3 lookup tables for car models, sales reps, and regions.
 
-Project Details
+## Project Details
 
 Data Sources
 
@@ -37,11 +37,11 @@ Install the required Python libraries using pip install -r requirements.txt.
 Run the Python script sales_analysis.py to generate the sales analysis dashboard.
 
 Snapshots
-Avg_Sales_By_Car_Model.png
-Total_Revenue_By_Sales_Rep.png
-Total_Sales_By_Car_Model.png
-Total_Sales_By_Color.png
-Total_Sales_By_Region.png
+- Avg_Sales_By_Car_Model.png
+- Total_Revenue_By_Sales_Rep.png
+- Total_Sales_By_Car_Model.png
+- Total_Sales_By_Color.png
+- Total_Sales_By_Region.png
 
 Feedback
 
