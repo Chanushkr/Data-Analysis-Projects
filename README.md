@@ -9,7 +9,7 @@ Welcome to my data analysis repository! Here, I showcase projects using Pandas, 
 - Description: Analyzing sales data from CSV files using Pandas, performing EDA, and creating insightful visualizations with Matplotlib and Seaborn.
 
 ### 2. Agricultural Dashboard
-- Folder Name: `[agricultural-dashboard](https://github.com/Chanushkr/Data-Analysis-Projects/tree/main/1%20-%20Harvest%20Gold%20Farms%20Dashboard%20using%20Pandas%20%26%20Seaborn)`
+- Folder Name: `1 - Harvest Gold Farms Dashboard using Pandas & Seaborn`
 - Description: Building a dashboard for agricultural data analysis, including crop yields, weather patterns, and market trends using Pandas, NumPy, and visualizations with Matplotlib and Seaborn.
 
 ## About Me
