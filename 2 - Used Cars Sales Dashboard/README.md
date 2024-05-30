@@ -37,7 +37,11 @@ Install the required Python libraries using pip install -r requirements.txt.
 Run the Python script sales_analysis.py to generate the sales analysis dashboard.
 
 Snapshots
-
+Avg_Sales_By_Car_Model.png
+Total_Revenue_By_Sales_Rep.png
+Total_Sales_By_Car_Model.png
+Total_Sales_By_Color.png
+Total_Sales_By_Region.png
 
 Feedback
 
