@@ -36,6 +36,7 @@ This project includes several key visualizations:
 - Dual-Axis Bar Chart: Comparing coffee prices with consumption totals.
 
 📚 Data Sources
+
 The data for this analysis was obtained from reputable coffee production and pricing datasets. All sources are included within the repository.
 
 Thank you for exploring the Coffee Production and Price Analysis project! ☕ If you have any questions or suggestions, feel free to reach out.
