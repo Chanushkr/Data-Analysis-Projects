@@ -12,6 +12,10 @@ Welcome to my data analysis repository! Here, I showcase projects using Pandas, 
 - Folder Name: `2 - Used Cars Sales Dashboard`
 - Description: Analyzing sales data from CSV files using Pandas, performing EDA, and creating insightful visualizations with Matplotlib and Seaborn.
 
+### 3. Coffee Production and Price Analysis
+- Folder Name: `3 - Coffee Production and Price Analysis`
+- Description: Welcome to the Coffee Production and Price Analysis project, where we explore global coffee production trends, top producers' contributions over time, and the relationship between production and pricing using Pandas and Matplotlib for insightful visualizations.
+
 ## About Me
 
 I am passionate about data science and enjoy working on projects that involve data manipulation, analysis, and visualization. Feel free to explore my projects and provide feedback!
