@@ -29,11 +29,11 @@ Matplotlib: For creating insightful visualizations.
 📊 Visualizations
 This project includes several key visualizations:
 
-Bar Chart: Top 10 coffee producers.
-Line Chart: Production trends for the top 5 nations over time.
-Pie & Donut Charts: Brazil's share of global coffee production.
-Scatter Plots: Comparing Brazil vs. Viet Nam and Venezuela.
-Dual-Axis Bar Chart: Comparing coffee prices with consumption totals.
+- Bar Chart: Top 10 coffee producers.
+- Line Chart: Production trends for the top 5 nations over time.
+- Pie & Donut Charts: Brazil's share of global coffee production.
+- Scatter Plots: Comparing Brazil vs. Viet Nam and Venezuela.
+- Dual-Axis Bar Chart: Comparing coffee prices with consumption totals.
 
 📚 Data Sources
 The data for this analysis was obtained from reputable coffee production and pricing datasets. All sources are included within the repository.
