@@ -1,4 +1,5 @@
 ☕ Coffee Production and Price Analysis 📊
+
 Welcome to the Coffee Production and Price Analysis project! This repository explores global coffee production trends, focusing on the top producers, their changing contributions over time, and the relationship between coffee production and pricing. Using Pandas and Matplotlib, we provide visual insights to help better understand the coffee industry dynamics.
 
 📑 Project Overview
