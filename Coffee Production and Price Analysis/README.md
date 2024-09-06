@@ -23,8 +23,8 @@ Objective: Explore the relationship between coffee prices and consumption in key
 Visualization: A dual-axis bar chart, plotting coffee prices alongside consumption totals for selected nations to uncover any potential correlations.
 
 ⚙️ Technologies Used
-Pandas: For data manipulation and processing.
-Matplotlib: For creating insightful visualizations.
+- Pandas: For data manipulation and processing.
+- Matplotlib: For creating insightful visualizations.
 
 📊 Visualizations
 This project includes several key visualizations:
