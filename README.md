@@ -18,9 +18,9 @@ Welcome to my data analysis repository! Here, I showcase projects using Pandas, 
 
 ### 4. In-Depth Analysis: Brazil’s Growing Dominance in the Global Coffee Market
 
-Folder Name: 4 - Report on Coffee Production
+- Folder Name: 4 - Report on Coffee Production
 
-Description: Welcome to the In-Depth Analysis: Brazil’s Growing Dominance in the Global Coffee Market report! This project provides a comprehensive examination of Brazil's expanding role in the global coffee market. We use Pandas and Matplotlib to deliver detailed visualizations that highlight Brazil’s increasing influence, including production trends, comparative analyses, and global market share.
+- Description: Welcome to the In-Depth Analysis: Brazil’s Growing Dominance in the Global Coffee Market report! This project provides a comprehensive examination of Brazil's expanding role in the global coffee market. We use Pandas and Matplotlib to deliver detailed visualizations that highlight Brazil’s increasing influence, including production trends, comparative analyses, and global market share.
 
 ## About Me
 
