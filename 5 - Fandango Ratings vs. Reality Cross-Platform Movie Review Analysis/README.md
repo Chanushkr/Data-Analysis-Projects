@@ -69,7 +69,3 @@ This project analyzes movie ratings and reviews across multiple platforms, inclu
 ## Conclusion
 This project highlights significant biases in Fandango's rating system and provides a comprehensive comparison with other movie review platforms.
 
----
-
-Feel free to explore the code and visualizations in the repository!
-
