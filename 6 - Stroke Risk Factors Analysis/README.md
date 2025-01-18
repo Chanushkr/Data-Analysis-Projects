@@ -1,4 +1,5 @@
 🚶‍♂️ Exploring Stroke Risk Factors: Data Analysis and Visualization 🧠
+
 📊 Overview
 This project explores the factors contributing to stroke risk using a dataset containing medical records. The goal is to analyze and visualize various data patterns, including the correlation between factors such as age, BMI, average glucose levels, and more. Through this project, we aim to identify key insights that may help in understanding stroke risks and assist in preventive measures. 🔍💡
 
