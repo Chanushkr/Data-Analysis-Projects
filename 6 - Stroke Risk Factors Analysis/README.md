@@ -25,39 +25,39 @@ Smoking status and its correlation with stroke occurrence. 🚬
 **📊 Visualizations**
 1. Age Distribution
 
-Histogram: Shows the distribution of ages, with a focus on stroke patients. 📊
+- Histogram: Shows the distribution of ages, with a focus on stroke patients. 📊
 
 2. Stroke vs. Hypertension
 
-Bar Chart: Compares the count of stroke occurrences among individuals with and without hypertension. 💉
+- Bar Chart: Compares the count of stroke occurrences among individuals with and without hypertension. 💉
 
 3. Stroke vs. Heart Disease
 
-Pie Chart: Illustrates the proportion of stroke cases among individuals with heart disease, showing the percentage of stroke cases with and without heart disease. 🥧❤️
+- Pie Chart: Illustrates the proportion of stroke cases among individuals with heart disease, showing the percentage of stroke cases with and without heart disease. 🥧❤️
 
 4. Stroke by Smoking Status
 
-Box Plot: Depicts the relationship between smoking status and stroke occurrence. 🚬⚖️
+- Box Plot: Depicts the relationship between smoking status and stroke occurrence. 🚬⚖️
 
 5. Gender Distribution
 
-Count Plot: Shows the count of stroke occurrences by gender. 🚻
+- Count Plot: Shows the count of stroke occurrences by gender. 🚻
 
 6. Stroke by Work Type
 
-Bar Chart: Compares the number of stroke occurrences based on different work types (e.g., Private, Self-employed, Government). 💼
+- Bar Chart: Compares the number of stroke occurrences based on different work types (e.g., Private, Self-employed, Government). 💼
 
 7. Stroke by Residence Type
 
-Bar Chart: Shows stroke occurrences in rural vs urban settings. 🌆🌄
+- Bar Chart: Shows stroke occurrences in rural vs urban settings. 🌆🌄
 
 8. Stroke by Marital Status
 
-Bar Chart: Compares stroke occurrences among married, single, and other marital status groups. 💍
+- Bar Chart: Compares stroke occurrences among married, single, and other marital status groups. 💍
 
 9. Stroke by Smoking Status
 
-Count Plot: Compares the stroke occurrence by smoking status (smoker vs non-smoker). 🚭
+- Count Plot: Compares the stroke occurrence by smoking status (smoker vs non-smoker). 🚭
 
 10. Scatter Plots
 
