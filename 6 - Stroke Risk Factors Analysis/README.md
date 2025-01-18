@@ -9,15 +9,18 @@ This repository contains the following files:
 healthcare-dataset-stroke-data.csv: The original dataset with information about patients and their health conditions. 📈
 Stroke_Risk_Factors_Analysis.ipynb: A Jupyter notebook containing all the code for data analysis and visualization. 💻
 requirements.txt: The list of required libraries to run the project. 📦
+
 🧹 Data Cleaning and Preprocessing
 Missing values were handled. ❌
 Data types were corrected. 🛠️
 Outliers and inconsistencies were addressed. ⚠️
+
 🔍 Exploratory Data Analysis (EDA)
 Key Findings:
 Age and gender distribution among stroke patients. 👩‍🦳👨‍🦳
 Impact of hypertension and heart disease on stroke outcomes. 💔
 Smoking status and its correlation with stroke occurrence. 🚬
+
 📊 Visualizations
 Age Distribution
 
@@ -50,5 +53,6 @@ Scatter Plots
 
 Age vs BMI: A scatter plot showing the relationship between age and BMI (Body Mass Index). 🔴📈
 Age vs Average Glucose Level: A scatter plot displaying the correlation between age and average glucose level. 🔬🍩
+
 📝 Conclusion
 This analysis gives a clear understanding of the key factors influencing stroke occurrences in the dataset. The visualizations help to identify patterns and potential areas for further research. 🔍✨
