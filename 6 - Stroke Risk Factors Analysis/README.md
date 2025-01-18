@@ -9,9 +9,9 @@ This project explores the factors contributing to stroke risk using a dataset co
 
 This repository contains the following files:
 
-healthcare-dataset-stroke-data.csv: The original dataset with information about patients and their health conditions. 📈
-Stroke_Risk_Factors_Analysis.ipynb: A Jupyter notebook containing all the code for data analysis and visualization. 💻
-requirements.txt: The list of required libraries to run the project. 📦
+- healthcare-dataset-stroke-data.csv: The original dataset with information about patients and their health conditions. 📈
+- Stroke_Risk_Factors_Analysis.ipynb: A Jupyter notebook containing all the code for data analysis and visualization. 💻
+- requirements.txt: The list of required libraries to run the project. 📦
 
 
 **🧹 Data Cleaning and Preprocessing**
