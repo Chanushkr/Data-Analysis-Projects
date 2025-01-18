@@ -1,7 +1,9 @@
 **🚶‍♂️ Exploring Stroke Risk Factors: Data Analysis and Visualization 🧠**
 
+
 **📊 Overview**
 This project explores the factors contributing to stroke risk using a dataset containing medical records. The goal is to analyze and visualize various data patterns, including the correlation between factors such as age, BMI, average glucose levels, and more. Through this project, we aim to identify key insights that may help in understanding stroke risks and assist in preventive measures. 🔍💡
+
 
 **📂 Project Files**
 
@@ -11,16 +13,19 @@ healthcare-dataset-stroke-data.csv: The original dataset with information about 
 Stroke_Risk_Factors_Analysis.ipynb: A Jupyter notebook containing all the code for data analysis and visualization. 💻
 requirements.txt: The list of required libraries to run the project. 📦
 
+
 **🧹 Data Cleaning and Preprocessing**
 Missing values were handled. ❌
 Data types were corrected. 🛠️
 Outliers and inconsistencies were addressed. ⚠️
+
 
 **🔍 Exploratory Data Analysis (EDA)**
 Key Findings:
 Age and gender distribution among stroke patients. 👩‍🦳👨‍🦳
 Impact of hypertension and heart disease on stroke outcomes. 💔
 Smoking status and its correlation with stroke occurrence. 🚬
+
 
 **📊 Visualizations**
 1. Age Distribution
@@ -63,6 +68,7 @@ Smoking status and its correlation with stroke occurrence. 🚬
 
 - Age vs BMI: A scatter plot showing the relationship between age and BMI (Body Mass Index). 🔴📈
 - Age vs Average Glucose Level: A scatter plot displaying the correlation between age and average glucose level. 🔬🍩
+
 
 **📝 Conclusion**
 This analysis gives a clear understanding of the key factors influencing stroke occurrences in the dataset. The visualizations help to identify patterns and potential areas for further research. 🔍✨
