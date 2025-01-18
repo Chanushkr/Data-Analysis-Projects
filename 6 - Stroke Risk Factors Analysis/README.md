@@ -23,37 +23,46 @@ Impact of hypertension and heart disease on stroke outcomes. 💔
 Smoking status and its correlation with stroke occurrence. 🚬
 
 **📊 Visualizations**
-Age Distribution
+1. Age Distribution
 
 Histogram: Shows the distribution of ages, with a focus on stroke patients. 📊
-Stroke vs. Hypertension
+
+2. Stroke vs. Hypertension
 
 Bar Chart: Compares the count of stroke occurrences among individuals with and without hypertension. 💉
-Stroke vs. Heart Disease
+
+3. Stroke vs. Heart Disease
 
 Pie Chart: Illustrates the proportion of stroke cases among individuals with heart disease, showing the percentage of stroke cases with and without heart disease. 🥧❤️
-Stroke by Smoking Status
+
+4. Stroke by Smoking Status
 
 Box Plot: Depicts the relationship between smoking status and stroke occurrence. 🚬⚖️
-Gender Distribution
+
+5. Gender Distribution
 
 Count Plot: Shows the count of stroke occurrences by gender. 🚻
-Stroke by Work Type
+
+6. Stroke by Work Type
 
 Bar Chart: Compares the number of stroke occurrences based on different work types (e.g., Private, Self-employed, Government). 💼
-Stroke by Residence Type
+
+7. Stroke by Residence Type
 
 Bar Chart: Shows stroke occurrences in rural vs urban settings. 🌆🌄
-Stroke by Marital Status
+
+8. Stroke by Marital Status
 
 Bar Chart: Compares stroke occurrences among married, single, and other marital status groups. 💍
-Stroke by Smoking Status
+
+9. Stroke by Smoking Status
 
 Count Plot: Compares the stroke occurrence by smoking status (smoker vs non-smoker). 🚭
-Scatter Plots
 
-Age vs BMI: A scatter plot showing the relationship between age and BMI (Body Mass Index). 🔴📈
-Age vs Average Glucose Level: A scatter plot displaying the correlation between age and average glucose level. 🔬🍩
+10. Scatter Plots
+
+- Age vs BMI: A scatter plot showing the relationship between age and BMI (Body Mass Index). 🔴📈
+- Age vs Average Glucose Level: A scatter plot displaying the correlation between age and average glucose level. 🔬🍩
 
 **📝 Conclusion**
 This analysis gives a clear understanding of the key factors influencing stroke occurrences in the dataset. The visualizations help to identify patterns and potential areas for further research. 🔍✨
