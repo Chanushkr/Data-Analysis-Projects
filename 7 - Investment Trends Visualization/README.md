@@ -46,7 +46,7 @@ Seaborn 🦢: For creating aesthetically pleasing and informative plots.
 
 ### 🚀 How to Run the Code 🖥️
 Clone this repository:
-git clone https://github.com/Chanushkr/Data-Analysis-Projects/tree/main/7%20-%20Investment%20Trends%20Visualization)%20Investment%20Trends%20Visualization
+git clone https://github.com/Chanushkr/Data-Analysis-Projects/tree/main/7%20-%20Investment%20Trends%20Visualization
 
 Navigate to the project directory:
 cd 7 - Investment Trends Visualization
