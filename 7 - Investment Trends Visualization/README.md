@@ -49,13 +49,13 @@ Clone this repository:
 git clone https://github.com/YourUsername/Financial-Analysis-Visualization
 
 Navigate to the project directory:
-cd Financial-Analysis-Visualization
+cd 7 - Investment Trends Visualization
 
 Install the required libraries:
 pip install numpy pandas matplotlib seaborn
 
 Run the Python script to generate the visualizations:
-python financial_analysis.py
+python Financial_Data_Analysis.py
 
 ## 🔑 Conclusion 🎯
 This project provides a detailed analysis of financial behaviors and preferences through various visualizations. The insights derived from these plots help in understanding how factors like gender, age, investment avenues, and expected returns influence investment decisions. 💡📊
