@@ -1,5 +1,6 @@
 #
 📊 Financial Behaviors and Preferences Analysis 💰
+
 This project provides a comprehensive analysis of financial behaviors and preferences using Python libraries like Matplotlib, Seaborn, and Pandas. 📈 The dataset helps in visualizing investment trends based on gender, investment avenues, stock market preferences, age groups, investment tenures, and expected returns. 🎯
 
 ##
