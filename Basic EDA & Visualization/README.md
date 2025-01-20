@@ -74,5 +74,7 @@ This project provides a comprehensive guide to data analysis and visualization, 
 ---
 
 **Author**: Chanush KR
+
 **GitHub**: https://github.com/Chanushkr/Data-Analysis-Projects/tree/main
+
 **LinkedIn**: https://www.linkedin.com/in/chanush-kr/
