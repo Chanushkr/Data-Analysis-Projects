@@ -1,0 +1,7 @@
+Name,Age,Gender,Salary
+Alice,25.0,Female,50000.0
+Bob,,Male,60000.0
+Charlie,35.0,,
+David,40.0,Male,80000.0
+,28.0,Female,58000.0
+Eve,,Female,70000.0
