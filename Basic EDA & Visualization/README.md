@@ -52,11 +52,11 @@ The dataset includes the following columns:
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Chanushkr/Data-Analysis-Projects/tree/main/Basic%20EDA%20%26%20Visualization
    ```
 2. Navigate to the project directory:
    ```bash
-   cd data-analysis-visualization
+   cd Basic EDA & Visualization
    ```
 3. Install the required libraries:
    ```bash
