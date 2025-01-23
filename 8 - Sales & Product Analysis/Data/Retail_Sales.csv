@@ -1,0 +1,51 @@
+OrderID,CustomerName,Category,ProductName,Region,OrderDate,Quantity,Price,TotalSales
+bd69f24a,Peter Dunn,Clothing,Coffee Table,South,2023-05-07,4,95.44,381.76
+7062cd52,Hunter Miller,Electronics,Tablet,North,2023-01-31,1,348.56,348.56
+45d0a7a9,Kimberly Malone,Clothing,Chair,South,2024-10-29,1,199.5,199.5
+0d493079,Crystal Porter,Clothing,Smartphone,North,2023-03-04,10,469.0,4690.0
+b7fb0716,Alex Delacruz,Electronics,Chair,North,2024-04-27,4,77.39,309.56
+00844902,Jennifer Hall,Electronics,Jacket,South,2024-08-08,7,177.12,1239.84
+4047d55e,Brian Parks,Clothing,T-Shirt,West,2023-07-14,2,65.6,131.2
+696dee0a,Sean Lara,Furniture,Tablet,West,2024-06-04,3,463.1,1389.3
+cb2ab2bd,Alan Jackson,Clothing,Dress,West,2024-04-19,1,439.9,439.9
+99619d27,Bonnie Carlson,Clothing,Jeans,West,2024-05-16,5,136.39,681.95
+007c2485,Ms. Wendy Santos,Clothing,Dining Table,West,2024-08-08,1,333.39,333.39
+bcd4e236,Pamela Dodson,Clothing,Smartphone,South,2024-11-11,8,410.44,3283.52
+7fd8bc96,Kelly Larsen,Electronics,Coffee Table,South,2024-08-14,1,282.05,282.05
+d1fdf1ad,Andrea Long,Clothing,Sofa,East,2023-09-11,1,269.53,269.53
+a3d31fa2,Travis Davis,Furniture,Coffee Table,West,2025-01-04,2,128.51,257.02
+6c9eb4b6,Amy Graham,Electronics,Dining Table,South,2023-02-24,2,55.62,111.24
+6b882cbc,Dawn Trujillo,Furniture,Sofa,East,2024-01-14,6,449.64,2697.84
+ce455942,Cameron Howard,Furniture,Bookshelf,West,2023-12-18,7,451.2,3158.4
+a5c9b192,Brittney Smith,Furniture,Chair,North,2023-10-10,5,320.22,1601.1
+37dbb207,Brandon Hurst,Furniture,Headphones,East,2024-09-01,1,176.12,176.12
+bf0027b8,Donald Franklin,Electronics,Jacket,South,2023-04-17,1,181.11,181.11
+3f717128,Beth Gonzalez,Electronics,Chair,North,2024-03-11,3,365.72,1097.16
+45a0572a,Jasmine Keith,Furniture,Sofa,North,2023-10-18,2,449.58,899.16
+472453d6,Jerry Edwards,Furniture,Chair,North,2024-12-26,5,444.67,2223.35
+defec40c,Cheryl Riley,Electronics,Bookshelf,East,2023-05-18,10,392.14,3921.4
+44233603,Shelby Wells,Electronics,Chair,South,2025-01-15,6,324.6,1947.6
+1d06da19,Steven Atkins,Electronics,Sofa,North,2024-07-08,7,51.23,358.61
+5e29cbb2,Jessica Stark,Clothing,Dress,West,2024-12-29,4,89.2,356.8
+6ae10e8f,Frank Hall,Clothing,Jeans,North,2023-08-23,7,450.29,3152.03
+57fb4f53,Vanessa Powers,Clothing,Chair,North,2023-06-13,8,307.15,2457.2
+aeb85118,William Davidson,Furniture,T-Shirt,East,2024-03-05,1,14.51,14.51
+5e8c3246,Rebecca Johnson,Clothing,Laptop,East,2024-09-06,6,59.72,358.32
+f997dcbf,Mary Harrington,Furniture,Dining Table,South,2024-04-29,8,335.12,2680.96
+d06ccd4c,Cathy Tyler,Furniture,Headphones,West,2024-01-23,5,12.48,62.4
+0e828e33,Duane Snyder,Clothing,Smartwatch,East,2024-01-31,4,88.8,355.2
+4ec2321b,Brett Scott DDS,Furniture,Chair,North,2024-04-06,2,278.88,557.76
+0d7555c9,Jamie Taylor,Clothing,T-Shirt,South,2024-12-16,6,349.03,2094.18
+c2197246,Manuel Ellison,Clothing,Headphones,North,2023-10-10,6,329.46,1976.76
+2c69730a,Alexander Baker,Electronics,Bookshelf,North,2024-01-10,1,119.89,119.89
+31a24d10,Mark Adams,Clothing,Headphones,East,2024-12-30,9,358.97,3230.73
+56271c0a,Veronica Tran,Electronics,Smartwatch,South,2025-01-10,6,126.25,757.5
+9d873572,Diana Newman,Clothing,Smartwatch,West,2024-05-21,3,169.45,508.35
+43fe75c2,Dana Barton,Clothing,Tablet,West,2023-11-20,4,375.78,1503.12
+7296140a,Ethan Roberts,Electronics,Dress,East,2023-03-07,4,328.32,1313.28
+03c874c6,Joshua Simmons,Electronics,Headphones,East,2025-01-09,3,426.12,1278.36
+036a2b97,Dorothy Santana,Clothing,Smartwatch,South,2023-09-03,10,332.23,3322.3
+60fb5ebd,Wendy Campbell,Furniture,Tablet,West,2024-09-18,3,288.47,865.41
+458db2d5,Christopher Heath,Electronics,Jacket,West,2023-12-19,3,55.9,167.7
+9911c1ca,Darren Gallegos,Furniture,Headphones,West,2024-01-10,4,190.18,760.72
+8e60f463,Megan Pham,Furniture,Laptop,North,2024-01-06,7,139.95,979.65
