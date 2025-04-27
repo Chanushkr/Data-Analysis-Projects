@@ -32,7 +32,7 @@ The following steps were performed:
 
 ## 📁 Files
 - `Cricket_Data.csv` — Cleaned dataset used for analysis
-- `Analysis_Code.ipynb` — Jupyter Notebook containing the complete code (data loading, cleaning, and analysis)
+- `Cricket_Batting_Analysis.ipynb` — Jupyter Notebook containing the complete code (data loading, cleaning, and analysis)
 - Visual outputs saved as PNG files (optional, if you generate plots)
 
 ## 🚀 How to Run
